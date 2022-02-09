@@ -13,6 +13,8 @@ import java.util.Objects;
 @EqualsAndHashCode
 public class Operation implements Comparable<Operation> {
 
+    public static final String DEPOSIT_TYPE = "DEPOSITO";
+
     @CsvBindByName(column = "OPERADOR")
     private String client;
 
@@ -29,7 +31,7 @@ public class Operation implements Comparable<Operation> {
     private BankAccount account;
 
     public void makeOperation() {
-        if (Objects.equals(type, "DEPOSITO")) {
+        if (Objects.equals(type, DEPOSIT_TYPE)) {
             deposit(value);
         } else {
             withdraw(value);
@@ -51,3 +53,4 @@ public class Operation implements Comparable<Operation> {
         return timestamp.compareTo(o.getTimestamp());
     }
 }
+
