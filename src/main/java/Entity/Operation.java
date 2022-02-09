@@ -1,11 +1,11 @@
 package Entity;
 
-import com.opencsv.bean.*;
+import com.opencsv.bean.CsvBindByName;
+import com.opencsv.bean.CsvRecurse;
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.Setter;
 
-import java.util.Comparator;
 import java.util.Objects;
 
 @Getter
@@ -47,7 +47,7 @@ public class Operation implements Comparable<Operation> {
     }
 
     @Override
-    public int compareTo(Operation o)  { return timestamp.compareTo(o.getTimestamp()); }
+    public int compareTo(Operation o) {
+        return timestamp.compareTo(o.getTimestamp());
+    }
 }
-
-

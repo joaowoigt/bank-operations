@@ -23,6 +23,4 @@ public class BankAccount {
     private String accountNumber;
 
     private Double balance = 0.0;
-
-
 }
