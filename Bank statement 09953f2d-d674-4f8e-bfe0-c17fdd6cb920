@@ -1,0 +1,22 @@
+"DATAHORAOPERACAO","ID_DA_CONTA","NOME_DO_BANCO","NUMERO_DA_AGENCIA","NUMERO_DA_CONTA","OPERADOR","TIPO","VALOR"
+"2022-01-04T11:24:42","09953f2d-d674-4f8e-bfe0-c17fdd6cb920","Santander","3121","35306174-8","Felipe","DEPOSITO","100.0"
+"2022-01-04T13:24:42","09953f2d-d674-4f8e-bfe0-c17fdd6cb920","Santander","3121","35306174-8","Bryan","SAQUE","80.0"
+"2022-01-07T15:36:58","09953f2d-d674-4f8e-bfe0-c17fdd6cb920","Santander","3121","35306174-8","Eduarda","SAQUE","20.0"
+"2022-01-07T15:55:53","09953f2d-d674-4f8e-bfe0-c17fdd6cb920","Santander","3121","35306174-8","Larissa","DEPOSITO","260.0"
+"2022-01-08T13:18:40","09953f2d-d674-4f8e-bfe0-c17fdd6cb920","Santander","3121","35306174-8","Miguel","DEPOSITO","360.0"
+"2022-01-17T11:30:28","09953f2d-d674-4f8e-bfe0-c17fdd6cb920","Santander","3121","35306174-8","Larissa","DEPOSITO","100.0"
+"2022-01-17T14:30:28","09953f2d-d674-4f8e-bfe0-c17fdd6cb920","Santander","3121","35306174-8","João","SAQUE","280.0"
+"2022-01-20T15:12:24","09953f2d-d674-4f8e-bfe0-c17fdd6cb920","Santander","3121","35306174-8","Larissa","SAQUE","300.0"
+"2022-01-20T15:12:24","09953f2d-d674-4f8e-bfe0-c17fdd6cb920","Santander","3121","35306174-8","Lucas","SAQUE","220.0"
+"2022-01-21T14:37:07","09953f2d-d674-4f8e-bfe0-c17fdd6cb920","Santander","3121","35306174-8","Clarissa","DEPOSITO","20.0"
+"2022-01-23T11:32:28","09953f2d-d674-4f8e-bfe0-c17fdd6cb920","Santander","3121","35306174-8","Helena","DEPOSITO","160.0"
+"2022-01-23T12:32:28","09953f2d-d674-4f8e-bfe0-c17fdd6cb920","Santander","3121","35306174-8","Catarina","DEPOSITO","80.0"
+"2022-01-25T12:22:43","09953f2d-d674-4f8e-bfe0-c17fdd6cb920","Santander","3121","35306174-8","Ingrid","DEPOSITO","100.0"
+"2022-01-25T14:22:43","09953f2d-d674-4f8e-bfe0-c17fdd6cb920","Santander","3121","35306174-8","Giovanna","DEPOSITO","160.0"
+"2022-01-26T12:53:20","09953f2d-d674-4f8e-bfe0-c17fdd6cb920","Santander","3121","35306174-8","Felipe","DEPOSITO","60.0"
+"2022-01-26T15:53:20","09953f2d-d674-4f8e-bfe0-c17fdd6cb920","Santander","3121","35306174-8","Luis","DEPOSITO","520.0"
+"2022-01-28T13:34:24","09953f2d-d674-4f8e-bfe0-c17fdd6cb920","Santander","3121","35306174-8","Ezequiel","SAQUE","160.0"
+
+ -------- 
+Saldo Atual = R$-20.0
+ --------
